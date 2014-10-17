@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-// A repository!
+I think I know how GitHub works now!
